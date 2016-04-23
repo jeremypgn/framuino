@@ -24,3 +24,7 @@ Debugging transmits of 13 (TX) and 12 (RX)
 ```arduino
 debug.println();
 ```
+
+## Simulate
+
+The simulation file using the software Proteus Isis with Arduino Uno R3
