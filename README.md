@@ -18,3 +18,9 @@ For example this code delays of one second:
 ```arduino
 wait("sec", 1);
 ```
+
+#### Debug
+Debugging transmits of 13 (TX) and 12 (RX)
+```arduino
+debug.println();
+```
