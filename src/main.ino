@@ -11,6 +11,5 @@ void setup(){
 }
 
 void loop() {
-  bool wait_return = wait("sec", 1);
-  Serial.println(wait_return);
+  //Loop
 }
